@@ -1,4 +1,4 @@
-/*Обнуление*/
+/*null styles*/
 *,
 *::before,
 *::after {
@@ -55,7 +55,4 @@ input::-ms-clear {
 ul li {
     list-style: none;
 }
-/*--------------------*/
-.MuiButtonBase-root.MuiIconButton-root {
-    padding: 0;
-}
+/*---------null styles end-----------*/

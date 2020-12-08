@@ -1,9 +1,12 @@
 import React, { Fragment, useState } from "react";
+// components
 import { KeyboardDatePicker } from "@material-ui/pickers";
 import {
   MuiPickersUtilsProvider,
 } from '@material-ui/pickers';
+// utils
 import DateFnsUtils from '@date-io/date-fns';
+// icons
 import { DateIcon } from '../../icons';
 
 export const CustomPicker = ({ datePlaceholder, onDateChange }) => {
@@ -19,6 +22,7 @@ export const CustomPicker = ({ datePlaceholder, onDateChange }) => {
     <MuiPickersUtilsProvider utils={DateFnsUtils}>
     <Fragment>
       <KeyboardDatePicker
+        className="picker-font-size"
         InputAdornmentProps={{ position: 'start'}}
         keyboardIcon={DateIcon}
         clearable

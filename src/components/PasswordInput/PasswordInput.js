@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
+// components
 import InputAdornment from '@material-ui/core/InputAdornment';
 import Input from '@material-ui/core/Input';
+// icons
 import { LockIcon, OpenedEyeIcon, ClosedEyeIcon } from '../../icons';
 import { useStyles } from './styles';
 

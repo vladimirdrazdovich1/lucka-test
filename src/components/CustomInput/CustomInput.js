@@ -1,6 +1,8 @@
 import React from 'react';
+// components
 import Input from '@material-ui/core/Input';
 import InputAdornment from '@material-ui/core/InputAdornment';
+// styles
 import { useStyles } from './styles';
 
 

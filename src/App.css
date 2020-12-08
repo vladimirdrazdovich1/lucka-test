@@ -11,3 +11,24 @@
 .MuiInput-underline.Mui-focused:after {
   border-bottom: 2px solid #00B796;
 }
+
+.MuiButtonBase-root.MuiIconButton-root {
+  padding: 0;
+}
+.picker-font-size {
+  width: 100%;
+}
+.picker-font-size input{
+  font-size: 11px;
+}
+
+@media all and (max-width: 960px) {
+  .picker-font-size input{
+    font-size: 14px;
+  }
+}
+@media all and (max-width: 350px) {
+  .picker-font-size input{
+    font-size: 11px;
+  }
+}

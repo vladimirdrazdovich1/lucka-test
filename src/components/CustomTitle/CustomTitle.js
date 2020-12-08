@@ -1,5 +1,7 @@
 import React from 'react';
+// components
 import Typography from '@material-ui/core/Typography';
+// styles
 import { useStyles } from './styles';
 
 export const CustomTitle = ({ titleText }) => {

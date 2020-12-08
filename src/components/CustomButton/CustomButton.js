@@ -1,6 +1,8 @@
 import React from 'react';
-import { withStyles } from '@material-ui/core/styles';
+// components
 import Button from '@material-ui/core/Button';
+//styles
+import { withStyles } from '@material-ui/core/styles';
 
 const BootstrapButton = withStyles({
   root: {

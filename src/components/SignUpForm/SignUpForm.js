@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
+// components
 import Grid from '@material-ui/core/Grid';
 import CustomInput from '../CustomInput';
 import CustomButton from '../CustomButton';
-import { AwardIcon, UserIcon, HatIcon, MailIcon } from '../../icons'
 import CustomPicker from '../CustomPicker'
 import PasswordInput from '../../components/PasswordInput';
 import CustomTitle from '../../components/CustomTitle';
+// styles
 import { useStyles } from './styles';
-import {LukaBox} from '../../icons'
+// icons
+import { LukaBox, AwardIcon, UserIcon, HatIcon, MailIcon } from '../../icons';
 
 
 export const SignUpForm = () =>{

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vladimirdrazdovich1/lucka-test/static/css/main.475b46cf.chunk.css",
+    "main.js": "/vladimirdrazdovich1/lucka-test/static/js/main.4bc09635.chunk.js",
+    "main.js.map": "/vladimirdrazdovich1/lucka-test/static/js/main.4bc09635.chunk.js.map",
+    "runtime-main.js": "/vladimirdrazdovich1/lucka-test/static/js/runtime-main.5d3d2b79.js",
+    "runtime-main.js.map": "/vladimirdrazdovich1/lucka-test/static/js/runtime-main.5d3d2b79.js.map",
+    "static/js/2.e6a20d0d.chunk.js": "/vladimirdrazdovich1/lucka-test/static/js/2.e6a20d0d.chunk.js",
+    "static/js/2.e6a20d0d.chunk.js.map": "/vladimirdrazdovich1/lucka-test/static/js/2.e6a20d0d.chunk.js.map",
+    "index.html": "/vladimirdrazdovich1/lucka-test/index.html",
+    "static/css/main.475b46cf.chunk.css.map": "/vladimirdrazdovich1/lucka-test/static/css/main.475b46cf.chunk.css.map",
+    "static/js/2.e6a20d0d.chunk.js.LICENSE.txt": "/vladimirdrazdovich1/lucka-test/static/js/2.e6a20d0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3d2b79.js",
+    "static/js/2.e6a20d0d.chunk.js",
+    "static/css/main.475b46cf.chunk.css",
+    "static/js/main.4bc09635.chunk.js"
+  ]
+}

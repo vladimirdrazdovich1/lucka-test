@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ## Demo
-https://github.com/vladimirdrazdovich1/lucka-test/settings
+https://vladimirdrazdovich1.github.io/lucka-test/
 
 ## Available Scripts
 
